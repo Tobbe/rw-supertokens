@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@redwoodjs/api": "^4.1.0-canary.641",
-    "@redwoodjs/graphql-server": "^4.1.0-canary.641"
+    "@redwoodjs/graphql-server": "^4.1.0-canary.641",
+    "supertokens-node": "^12"
   }
 }
